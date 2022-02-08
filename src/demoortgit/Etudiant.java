@@ -14,6 +14,7 @@ public class Etudiant {
     private String nom;
     private double moyenne;
     
-    
+    // Ton erreur est ici
+    private double moyenneJB;
     
 }
